@@ -1,0 +1,7 @@
+../Core/Src/peripheral_init.c:19:6:peripheral_init	8	static
+../Core/Src/peripheral_init.c:30:6:SystemClock_Config	88	static
+../Core/Src/peripheral_init.c:59:13:MX_DAC_Init	16	static
+../Core/Src/peripheral_init.c:70:13:MX_TIM6_Init	16	static
+../Core/Src/peripheral_init.c:86:13:MX_DMA_Init	16	static
+../Core/Src/peripheral_init.c:93:13:MX_GPIO_Init	48	static
+../Core/Src/peripheral_init.c:109:13:MX_UART4_Init	8	static

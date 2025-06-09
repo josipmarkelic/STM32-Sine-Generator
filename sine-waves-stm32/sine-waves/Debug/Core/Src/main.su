@@ -1,0 +1,4 @@
+../Core/Src/main.c:27:5:main	120	static
+../Core/Src/main.c:59:6:generate_sine_wave	16	static
+../Core/Src/main.c:65:6:start_sine_wave	16	static
+../Core/Src/main.c:71:6:set_output_frequency	32	static
